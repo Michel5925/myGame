@@ -1,4 +1,4 @@
-# myGame
+# 2D Adventure
 
 A 2D top-down RPG built in **Java** as a personal programming project.
 
